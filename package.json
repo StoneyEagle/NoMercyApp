@@ -157,5 +157,7 @@
   "overrides": {
   "rollup": "4.44.0",
   "handlebars": "^4.7.9"
-  }
+  ,
+  "node-forge": ""^1.4.0""
+}
 }
